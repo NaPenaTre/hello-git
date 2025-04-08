@@ -1,0 +1,5 @@
+##Todo lo que se agregue aqui sera ignorado###
+# **/.DS_Store - asi se le dice que ese archivo nunca se agregara al commit
+
+#Ejemplo:
+.idea/*
