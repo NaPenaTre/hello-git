@@ -15,6 +15,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print(math.isclose(0,0))
+print(math.isclose(0,1))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
